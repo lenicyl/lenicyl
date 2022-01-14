@@ -6,5 +6,3 @@ Currently Obsessed with
 - [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Lenicyl)](https://www.last.fm/user/Lenicyl)
-
-
