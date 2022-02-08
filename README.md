@@ -9,6 +9,4 @@ Currently Obsessed with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenicyl&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=Lenicyl)](https://www.last.fm/user/Lenicyl)
-
 
