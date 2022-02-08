@@ -3,10 +3,6 @@
 Hai, i dont code much unfortunately. 
 Just another software enthusiast 
 
-Currently Obsessed with 
-- [Scoop](https://github.com/ScoopInstaller/Scoop/)
-- [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lenicyl&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
